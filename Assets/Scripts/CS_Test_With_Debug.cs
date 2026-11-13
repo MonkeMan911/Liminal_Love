@@ -11,6 +11,6 @@ public class CS_Test_With_Debug : MonoBehaviour
 
     public void SwitchImage() 
     {
-        gObject.SetActive(false);
+        gObject.SetActive(true);
     }
 }
